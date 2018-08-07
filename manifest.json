@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Search with Google Instead",
+  "short_name": "Google Instead",
+  "version": "1.01",
+  "description": "You use DuckDuckGo or Bing by default, yet sometimes you want to try the same search in Google? This extension is for you.",
+  "author": "Alessandro Muraro",
+  "icons": { 
+    "16": "icon-16.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png" 
+  },
+  "content_scripts": [
+  {
+    "matches": [
+      "https://duckduckgo.com/?*",
+      "https://www.bing.com/search?*"
+    ],
+    "js": ["main.js"]
+  }
+]
+}
