@@ -1,0 +1,29 @@
+{
+  "name": "search-with-google-instead",
+  "version": "0.0.1",
+  "description": "Browser plugin to add Search With Google instead button on duckduckgo results page",
+  "main": "extension/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akmur/search-with-google-instead.git"
+  },
+  "keywords": [
+    "browser",
+    "extension",
+    "duckduckgo"
+  ],
+  "author": "akmur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akmur/search-with-google-instead/issues"
+  },
+  "homepage": "https://github.com/akmur/search-with-google-instead#readme",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
