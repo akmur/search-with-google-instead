@@ -20,3 +20,8 @@ But sometimes you don't find what you are looking for and you have
 to fallback to Google. Then, this plugin saves you time and effort
 of typing/copy pasting you search term again.
 
+## Screenshots
+
+![Screenshot of desktop DuckDuckGo results page with Search With Google Instead button visible](https://raw.githubusercontent.com/halas/search-with-google-instead/firefox-plugin-updates/screenshots/screenshot-desktop.png)
+
+![Screenshot of mobile DuckDuckGo results page with Search With Google Instead button visible](https://raw.githubusercontent.com/halas/search-with-google-instead/firefox-plugin-updates/screenshots/screenshot-mobile.png)
