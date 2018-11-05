@@ -1,6 +1,6 @@
 {
   "name": "search-with-google-instead",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Browser plugin to add Search With Google instead button on duckduckgo results page",
   "main": "extension/main.js",
   "scripts": {
